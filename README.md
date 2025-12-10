@@ -45,7 +45,7 @@ A estrutura do projeto ficará assim:
 
 README.md
 
-## 4. Plano de Teste (Resumo)
+## 4. Plano de Teste
 Escopo
 . Testes funcionais da Tela de Login
 . Validação de entrada de dados (front e back)
