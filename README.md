@@ -12,7 +12,7 @@ Este repositório contém um projeto completo de QA para uma Tela de Login, incl
 . Cenários em Gherkin
 . Casos de teste
 . Evidências
-. Estrutura organizada em pastas para GitHub
+
 
 O objetivo é demonstrar, de forma profissional, o conhecimento técnico em Qualidade de Software, testes funcionais, BDD, documentação, e boas práticas.
 
