@@ -64,7 +64,8 @@ Regras
 . Bloqueio após X tentativas
 . Link de "Esqueci minha senha" deve funcionar
 
-##5. 📁 05_cenarios_bdd/
+##5. Cenários
+📁 05_cenarios_bdd/
   📄 05_cenarios_bdd.md
 
 Essa pasta serve exclusivamente para armazenar todos os cenários em Gherkin.
