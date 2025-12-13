@@ -1,16 +1,1 @@
-/tela-login-qa
-│
-├── README.md
-│
-├── 01_plano_de_teste/
-│   └── plano_de_teste.md
-│
-├── 02_casos_de_teste/
-│   └── casos_de_teste.md
-│
-├── 03_cenarios_bdd/
-│   └── 05_cenarios_bdd.md
-│
-├── 04_fluxograma/
-    └── fluxo_login.svg
-
+Documentação do Plano de Teste da Tela de Login
