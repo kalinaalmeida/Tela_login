@@ -36,12 +36,9 @@ A estrutura do projeto ficará assim:
     Cenarios_Login.feature
 
 /casos-de-teste
-    Casos_Teste_Login.xlsx
     Casos_Teste_Login.md
 
-/evidencias
-    evidencias-teste-login.pdf
-    screenshots/...
+/Fluxograma
 
 README.md
 
@@ -65,8 +62,10 @@ Regras
 . Link de "Esqueci minha senha" deve funcionar
 
 ## 5. Cenários
-📁 05_cenarios_bdd/
-  📄 05_cenarios_bdd.md
+/cenarios-bdd/Cenarios_Login.feature
 
-Essa pasta serve exclusivamente para armazenar todos os cenários em Gherkin.
+## 6. Casos de Teste
+casos-de-teste.md
 
+## 7. Fluxograma
+fluxo_login.svg
