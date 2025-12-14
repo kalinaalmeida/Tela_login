@@ -62,10 +62,10 @@ Regras
 . Link de "Esqueci minha senha" deve funcionar
 
 ## 5. Cenários
-/cenarios-bdd/Cenarios_Login.feature
+. Escrita dos cenários de teste em BDD(Gherkin)
 
 ## 6. Casos de Teste
-casos-de-teste.md
+. Escrita dos casos de teste(Entrada e Saída)
 
 ## 7. Fluxograma
 fluxo_login.svg
