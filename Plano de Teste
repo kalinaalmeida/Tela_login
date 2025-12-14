@@ -1,4 +1,4 @@
-Plano de Testes – Tela de Login
+Plano de Teste – Tela de Login
 1. Objetivo
 Validar que o sistema permite que usuários autenticados acessem a aplicação com segurança, garantindo comportamento correto nos fluxos de login válidos, inválidos e exceções.
 ________________________________________
