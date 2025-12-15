@@ -30,11 +30,12 @@ O foco do projeto é validar todos os fluxos possíveis dessa tela.
 ## 3. Estrutura do Repositório
 
 A estrutura do projeto ficará assim:
+
 /plano-de-teste
-    Plano_Tela_Login.md
+    Plano de Teste.md
 
 /cenarios-bdd
-    Cenarios_Login.feature
+    Cenários.feature
 
 /casos-de-teste
     Casos_Teste_Login.md
