@@ -68,4 +68,4 @@ Regras
 . Escrita dos casos de teste(Entrada e Saída)
 
 ## 7. Fluxograma
-fluxo_login.svg
+fluxo_login.png
