@@ -70,10 +70,7 @@ Regras
 ## 6. Casos de Teste
 . Escrita dos casos de teste(Entrada e Saída)
 
-## 7. Fluxograma
-fluxo_login.png
-
-## 🔁 Fluxograma do Processo de Login
+## 7. Fluxograma do Processo de Login
 
 [Acessar fluxograma](fluxograma/fluxo_login.png)
 
