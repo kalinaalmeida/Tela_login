@@ -28,6 +28,7 @@ A aplicação simulada possui uma tela de login padrão, onde o usuário deve:
 O foco do projeto é validar todos os fluxos possíveis dessa tela.
 
 ## 3. Estrutura do Repositório
+
 A estrutura do projeto ficará assim:
 /plano-de-teste
     Plano_Tela_Login.md
