@@ -1,76 +1,77 @@
-# Tela_login
+# Projeto de Testes – Tela de Login
 
-# Projeto: Tela de Login
+## 📌 Visão Geral
 
-Este repositório contém um projeto completo de QA para uma Tela de Login, incluindo:
+Este repositório apresenta um **projeto de testes** para a funcionalidade de **Tela de Login**, estruturado como exemplo prático de organização de artefatos de QA.
 
-## 1. Descrição do Projeto
+O projeto consolida práticas de testes funcionais e documentação técnica, servindo como **material de estudo e portfólio profissional**.
 
-Este repositório contém um projeto completo de QA para uma Tela de Login, incluindo:
-. Plano de teste
-. Casos de uso
-. Cenários em Gherkin
-. Casos de teste
-. Evidências
+---
 
+## 🎯 Objetivo do Projeto
 
-O objetivo é demonstrar, de forma profissional, o conhecimento técnico em Qualidade de Software, testes funcionais, BDD, documentação, e boas práticas.
+* Demonstrar a organização de artefatos de QA em um repositório GitHub
+* Evidenciar a escrita de testes funcionais e casos de teste
+* Aplicar boas práticas de documentação técnica em Markdown
 
+---
 
-## 2. Objetivo da Aplicação
+## 🛠️ Tecnologias e Conceitos Utilizados
 
-A aplicação simulada possui uma tela de login padrão, onde o usuário deve:
-. Informar e-mail ou usuário
-. Informar senha
-. Autenticar no sistema
-. Recuperar senha em caso de esquecimento
+* Testes Funcionais
+* Documentação técnica em Markdown
+* Git e GitHub
 
-O foco do projeto é validar todos os fluxos possíveis dessa tela.
+---
 
-## 3. Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
-A estrutura do projeto ficará assim:
+```
+plano-de-teste/
+ └── Plano_Tela_Login.md
 
-/plano-de-teste
-    Plano de Teste.md
+cenarios-bdd/
+ └── Cenarios_Login.feature
 
-/cenarios-bdd
-    Cenários.feature
+casos-de-teste/
+ └── Casos_Teste_Login.md
 
-/casos-de-teste
-    Casos_Teste_Login.md
-
-/Fluxograma
-    fluxo_login.png
+fluxograma/
+ └── Fluxograma_Tela_Login.png
 
 README.md
+```
 
-## 4. Plano de Teste
-Escopo
-. Testes funcionais da Tela de Login
-. Validação de entrada de dados (front e back)
-. Fluxos positivos e negativos
+---
 
-Tipos de Testes
-. Funcionais
-. Regressão
-. UX/UI
-. Erro e Mensagens
-. Segurança básica (senhas mascaradas, tentativas)
+## 📄 Artefatos de Teste
 
-Regras
-. E-mail deve estar no formato válido
-. Senha obrigatória
-. Bloqueio após X tentativas
-. Link de "Esqueci minha senha" deve funcionar
+### 🧪 Plano de Teste
 
-## 5. Cenários
-. Escrita dos cenários de teste em BDD(Gherkin)
+Documento que define o escopo, abordagem, critérios e estratégia de testes.
 
-## 6. Casos de Teste
-. Escrita dos casos de teste(Entrada e Saída)
+🔗 **Link:** [Plano de Teste – Tela de Login](plano-de-teste/Plano_Tela_Login.md)
 
-## 7. Fluxograma do Processo de Login
+---
 
-[Acessar fluxograma](fluxograma/fluxo_login.png)
+### ✅ Casos de Teste
 
+Escrita dos casos de teste funcionais detalhando **entradas, ações e resultados esperados**, cobrindo cenários positivos e negativos da funcionalidade de login.
+
+🔗 **Link:** [Casos de Teste – Login](casos-de-teste/Casos_Teste_Login.md)
+
+---
+
+### 🧩 Cenários BDD (Gherkin)
+
+Cenários escritos em **BDD / Gherkin**, alinhados às boas práticas de especificação comportamental.
+
+🔗 [Acessar Cenários BDD](cenarios-bdd/Cenarios_Login.feature)
+
+---
+
+## 🔁 Fluxograma do Processo de Login
+
+Representação visual do fluxo de autenticação do usuário.
+
+![Fluxograma do Login](fluxograma/Fluxograma_Tela_Login.png)
