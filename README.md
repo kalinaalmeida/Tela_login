@@ -73,6 +73,7 @@ Cenários escritos em **BDD / Gherkin**, alinhados às boas práticas de especif
 ## 🔁 Fluxograma do Processo de Login
 
 Representação visual do fluxo de autenticação do usuário.
+🔗 [Visualizar Fluxograma](Fluxograma/fluxo_login.png)
 
 
 
