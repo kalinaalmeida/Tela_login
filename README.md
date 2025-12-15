@@ -39,6 +39,7 @@ A estrutura do projeto ficará assim:
     Casos_Teste_Login.md
 
 /Fluxograma
+    fluxo_login.png
 
 README.md
 
