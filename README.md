@@ -71,3 +71,8 @@ Regras
 
 ## 7. Fluxograma
 fluxo_login.png
+
+## 🔁 Fluxograma do Processo de Login
+
+[Acessar fluxograma](fluxograma/fluxo_login.png)
+
