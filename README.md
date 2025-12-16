@@ -54,19 +54,19 @@ Documento que define o escopo, abordagem, critérios e estratégia de testes.
 
 ---
 
-### ✅ Casos de Teste
-
-Escrita dos casos de teste funcionais detalhando **entradas, ações e resultados esperados**, cobrindo cenários positivos e negativos da funcionalidade de login.
-
-🔗 **Link:** [Casos de Teste – Login](casos-de-teste/Casos_Teste_Login.md)
-
----
-
 ### 🧩 Cenários BDD (Gherkin)
 
 Cenários escritos em **BDD / Gherkin**, alinhados às boas práticas de especificação comportamental.
 
 🔗 [Acessar Cenários BDD](cenarios-bdd/Cenarios_Login.feature)
+
+---
+
+### ✅ Casos de Teste
+
+Escrita dos casos de teste funcionais detalhando **entradas, ações e resultados esperados**, cobrindo cenários positivos e negativos da funcionalidade de login.
+
+🔗 **Link:** [Casos de Teste – Login](casos-de-teste/Casos_Teste_Login.md)
 
 ---
 
