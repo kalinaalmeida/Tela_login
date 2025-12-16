@@ -1,4 +1,5 @@
 Plano de Teste – Tela de Login
+
 1. Objetivo
 Validar que o sistema permite que usuários autenticados acessem a aplicação com segurança, garantindo comportamento correto nos fluxos de login válidos, inválidos e exceções.
 ________________________________________
@@ -12,13 +13,13 @@ ________________________________________
 •	Desempenho/UX
 ________________________________________
 3. Requisitos Funcionais
-1.	O usuário deve informar e-mail ou username válido.
-2.	O usuário deve informar senha válida.
-3.	O sistema deve validar credenciais e permitir acesso apenas se forem corretas.
-4.	O sistema deve mostrar mensagens de erro adequadas em caso de falhas.
-5.	O botão Entrar deve ficar desabilitado enquanto campos obrigatórios estiverem vazios.
-6.	Deve existir link de “Esqueci minha senha”.
-7.	O sistema deve bloquear após X tentativas inválidas (se existir essa regra).
+•	O usuário deve informar e-mail ou username válido.
+•	O usuário deve informar senha válida.
+•	O sistema deve validar credenciais e permitir acesso apenas se forem corretas.
+•	O sistema deve mostrar mensagens de erro adequadas em caso de falhas.
+•	O botão Entrar deve ficar desabilitado enquanto campos obrigatórios estiverem vazios.
+•	Deve existir link de “Esqueci minha senha”.
+•	O sistema deve bloquear após X tentativas inválidas (se existir essa regra).
 ________________________________________
 4. Tipos de Testes
 •	Testes Funcionais
