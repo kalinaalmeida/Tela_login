@@ -74,7 +74,7 @@ Cenários escritos em **BDD / Gherkin**, alinhados às boas práticas de especif
 
 Representação visual do fluxo de autenticação do usuário.
 
-🔗 [Visualizar Fluxograma](https://raw.githubusercontent.com/kalinaalmeida/Tela_login/main/Fluxograma/fluxo_login.png)
+🔗 [Visualizar Fluxograma](URL_QUE_VOCÊ_COPIOU_DO_RAW)
 
 
 
