@@ -1,1 +1,41 @@
-exemplos-bugs/bug_login_senha_invalida.md
+# Bug Report – Login
+
+## ID
+BUG-001
+
+## Título
+Sistema permite login com senha inválida
+
+## Ambiente
+- Sistema: Web
+- Navegador: Chrome
+- SO: Windows 11
+- Ambiente: QA
+
+## Pré-condições
+- Usuário cadastrado
+- Usuário na tela de login
+
+## Passos para reproduzir
+1. Acessar a tela de login
+2. Informar usuário válido
+3. Informar senha inválida
+4. Clicar em "Entrar"
+
+## Resultado esperado
+O sistema deve exibir mensagem de erro informando credenciais inválidas.
+
+## Resultado obtido
+O sistema permite o login mesmo com senha inválida.
+
+## Evidências
+Print da tela (se aplicável)
+
+## Severidade
+Alta
+
+## Prioridade
+Alta
+
+## Status
+Aberto
